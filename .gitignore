@@ -1,0 +1,7 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar a pasta files onde os dados são salvos
+files/
+
+yarn.lock
